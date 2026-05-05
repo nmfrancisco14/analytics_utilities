@@ -1,0 +1,29 @@
+Package: analyticsutilities
+Title: Analytics Utilities
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nefriend", "Francisco", , "nefriendfrancisco@gmail.com", role = c("aut", "cre"))
+Description: A collection of analytics utility functions for RDAC Analytics unit.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends:
+    R (>= 4.1.0)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    dplyr,
+    googledrive,
+    httr,
+    janitor,
+    jsonlite,
+    lubridate,
+    openxlsx,
+    purrr,
+    pxweb,
+    readr,
+    rlang,
+    stringr,
+    tibble
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
