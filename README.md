@@ -1,7 +1,6 @@
 # analyticsutilities
 
-An R package with analytics utility functions for Philippine agricultural and
-geospatial data, built for the RDAC Analytics unit.
+An R package with analytics utility functions for built for the RDAC Analytics unit.
 
 ## Functions
 
